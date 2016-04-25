@@ -22,3 +22,32 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+.font-avantgarde {
+   font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+
+.jumbotron{
+background-color: #f3e6ff;
+}
+
+.light-pink{
+    background-color: #ffe6e6;
+}
+
+.light-blue{
+    background-color: #e6f7ff;
+}
+
+.light-green{
+    background-color: #ccffe6;
+}
+
+.vertical-center {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
